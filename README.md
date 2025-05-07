@@ -6,7 +6,7 @@ Alunos: Nathan Frassetto e Ryan Amboni
 <br/>
 
 ## Calculadora Financeira + Simulador "Compro ou Espero?"
-Este  projeto é uma calculadora financeira e um simulador de ajuda na tomada de decisões sobre compras, onde se alternam as abas por meio de botões de navegação no topo da página. <br/>
+Este  projeto é uma calculadora financeira e um simulador de ajuda na tomada de decisões sobre compras, onde se alternam as abas por meio de botões de navegação no topo da página. 
 A calculadora registra as receitas e despesas, calcula o saldo e visualiza os totais, enquanto o simulador ajuda a decidir se é melhor comprar algo ou esperar, baseado nas finanças do usuário.
 
 <br/>
