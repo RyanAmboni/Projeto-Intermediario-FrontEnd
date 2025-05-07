@@ -46,27 +46,30 @@ A calculadora registra as receitas e despesas, calcula o saldo e visualiza os to
 
 - Adicione suas receitas e despesas.
 - Clique em "Adicionar Receita" ou "Adicionar Despesa".
-  <br/>
+<br/>
 **Exemplo Receita:**
-  ![Receitas](https://i.imgur.com/XtN9ZeV.png)
+![Receitas](https://i.imgur.com/XtN9ZeV.png)
 <br/>
 
 **Exemplo Despesa:**
 ![Despesas](https://i.imgur.com/WdD9DkB.png)
 <br/>
+
 - O total de receitas, despesas e saldo será automaticamente calculado.
 - Você pode copiar o resumo do orçamento para a área de transferência clicando no botão "Copiar Resumo".
-    ![Resumo do Orçamento](https://i.imgur.com/WdD9DkB.png)
+![Resumo do Orçamento](https://i.imgur.com/WdD9DkB.png)
 
 <br/>
-<ins>Simulador "Compro ou Espero?":</ins>
 
+<ins>Simulador "Compro ou Espero?":</ins>
+<br/>
 - Informe o valor do item e o número de parcelas.
-  ![Valor e Parcelas](https://i.imgur.com/P5CSId3.png)
+![Valor e Parcelas](https://i.imgur.com/P5CSId3.png)
   <br/>
 - Clique em "Simular" para ver a recomendação do simulador.
-  ![Tela de Analisando](https://i.imgur.com/PgG7dsf.png)
-  ![Resultado](https://i.imgur.com/dWaCY4U.png)
+![Tela de Analisando](https://i.imgur.com/PgG7dsf.png)
+<br/>
+![Resultado](https://i.imgur.com/dWaCY4U.png)
 <br/>
 
 - O relatório pode ser copiado clicando em "Copiar Relatório".
