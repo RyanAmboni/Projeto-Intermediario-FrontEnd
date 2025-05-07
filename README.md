@@ -27,9 +27,13 @@ A calculadora registra as receitas e despesas, calcula o saldo e visualiza os to
 
 ## Tecnologias Utilizadas:
 **- HTML:** Estrutura da página.
+<br/>
 **- CSS:** Estilização e design responsivo da aplicação.
+<br/>
 **- JavaScript:** Alternância entre as abas, adição de receitas/despesas, cálculo do saldo, e simulação de compra.
+<br/>
 **- Clipboard API:** Copiar os resumos financeiros e relatórios de simulação para a área de transferência.
+<br/>
 **- API de Tempo:** Uso de setTimeout para simular o tempo de processamento no simulador de compras.
 
 <br/>
