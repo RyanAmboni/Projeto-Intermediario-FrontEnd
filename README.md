@@ -36,7 +36,7 @@ A calculadora registra as receitas e despesas, calcula o saldo e visualiza os to
 
 ## Como Usar: 
 
-- Faça download dos arquivos [clicando aqui]().
+- Faça download dos arquivos [clicando aqui](https://github.com/RyanAmboni/Projeto-Intermediario-FrontEnd/archive/refs/heads/main.zip).
 - Extraia a pasta e abra o arquivo index.html no seu navegador preferido para visualizar a aplicação.
 
   ![Tela inicial do projeto](https://i.imgur.com/ecFctEH.png)
