@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calculadora Financeira + Simulador</title>
+  <link rel="stylesheet" href="index_files/style.css" />
+</head>
+<body>
+  <header>
+    <button id="btnCalculadora" class="active">Calculadora Financeira</button>
+    <button id="btnSimulador">Compro ou Espero?</button>
+  </header>
+
+  <main>
+    <section id="calculadora" class="active">
+      <h2>Calculadora Financeira</h2>
+
+      <div class="entrada">
+        <h3>Receita</h3>
+        <input id="descReceita" type="text" placeholder="Descrição da receita" />
+        <input id="valorReceita" type="number" placeholder="Valor da receita" />
+        <button id="addReceita">Adicionar Receita</button>
+      </div>
+
+      <div class="entrada">
+        <h3>Despesa</h3>
+        <input id="descDespesa" type="text" placeholder="Descrição da despesa" />
+        <input id="valorDespesa" type="number" placeholder="Valor da despesa" />
+        <button id="addDespesa">Adicionar Despesa</button>
+      </div>
+
+      <div class="listas">
+        <div>
+          <h4>Receitas</h4>
+          <ul id="listaReceitas"></ul>
+        </div>
+        <div>
+          <h4>Despesas</h4>
+          <ul id="listaDespesas"></ul>
+        </div>
+      </div>
+
+      <div class="totais">
+        <p>Total de Receitas: R$ <span id="totalReceitas">0.00</span></p>
+        <p>Total de Despesas: R$ <span id="totalDespesas">0.00</span></p>
+        <p>Saldo: <span id="saldo">0.00</span></p>
+      </div>
+
+      <div class="acoes">
+        <button id="btnCalcular" style="display: none">Calcular Totais</button>
+        <button id="btnCopiarResumo">Copiar Resumo</button>
+      </div>
+    </section>
+
+    <section id="simulador">
+      <h2>Simulador: Compro ou Espero?</h2>
+
+      <div class="entrada">
+        <input id="valorItem" type="number" placeholder="Valor do item desejado" />
+        <input id="parcelas" type="number" placeholder="Número de parcelas" />
+        <button id="btnSimular">Simular</button>
+      </div>
+
+      <div id="resultadoSimulacao" class="resultado"></div>
+
+      <div class="acoes">
+        <button id="btnCopiarSimulacao">Copiar Relatório</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="index_files/script.js"></script>
+</body>
+</html>
